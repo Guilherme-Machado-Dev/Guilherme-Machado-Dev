@@ -6,6 +6,10 @@ Me chamo Guilherme Barbosa, tenho 19 anos e sou natural de Duque de Caxias. Atua
 "[Dev em Dev](https://www.linkedin.com/in/guilherme-barbosa-0569113a2)".
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/guilherme-barbosa-0569113a2">
+        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
+    </a>
     <a href="https://github.com/guilhermebarbosa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
