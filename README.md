@@ -60,14 +60,14 @@ Me chamo Guilherme Barbosa, tenho 19 anos e sou natural de Duque de Caxias. Atua
       alt="GitHub Stats"
       height="200"
       style="margin-right: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
-      src="https://github-readme-stats.vercel.app/api?username=Guilherme-Machado-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=guilhermebarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img
       alt="Top Langs"
       height="200"
       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Machado-Dev&layout=compact&langs_count=7&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarbosa&layout=compact&langs_count=7&theme=tokyonight"
   />
 
 </div>
