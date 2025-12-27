@@ -41,6 +41,17 @@ Me chamo Guilherme Barbosa, tenho 19 anos e sou natural de Duque de Caxias. Atua
 <br/>
 <br/>
 
+### 📚 Atualmente estudando
+- 🐍 Python (lógica de programação e automação)
+- 🌐 HTML, CSS e JavaScript (criação de sites)
+- 🔧 Git & GitHub (versionamento e colaboração)
+
+![Python](https://img.shields.io/badge/Python-Estudando-blue?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github)
+![Web](https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript)
+
+---
+
 ### 📊 Estatísticas
 
 <div align="center">
