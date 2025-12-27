@@ -49,25 +49,3 @@ Me chamo Guilherme Barbosa, tenho 19 anos e sou natural de Duque de Caxias. Atua
 ![Python](https://img.shields.io/badge/Python-Estudando-blue?style=for-the-badge&logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript)
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-
-  <img
-      alt="GitHub Stats"
-      height="200"
-      style="margin-right: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
-      src="https://github-readme-stats.vercel.app/api?username=guilhermebarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-
-  <img
-      alt="Top Langs"
-      height="200"
-      style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebarbosa&layout=compact&langs_count=7&theme=tokyonight"
-  />
-
-</div>
