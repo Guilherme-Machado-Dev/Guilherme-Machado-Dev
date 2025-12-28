@@ -16,18 +16,18 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
         <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
     </a>
-    <a href="https://github.com/guilhermebarbosa?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Guilherme-Machado-Dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/guilhermebarbosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-Machado-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
         />
     </a>
-    <a href="https://github.com/guilhermebarbosa?tab=followers">
+    <a href="https://github.com/Guilherme-Machado-Dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/guilhermebarbosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Machado-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
         />
     </a>
 </p>
