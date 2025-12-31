@@ -20,7 +20,7 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
         <img alt="DIO" title="Meu perfil na DIO" 
         src="https://img.shields.io/badge/DIO-Perfil-purple?style=for-the-badge&logo=book"/>
     </a>
-    <a href="https://github.com/Guilherme-Machado-Dev">
+    <a href="https://github.com/Guilherme-Machado-Dev?tab=repositories">
         <img alt="GitHub" title="Meus projetos no GitHub"
         src="https://img.shields.io/badge/GitHub-Portfólio-black?style=for-the-badge&logo=github"/>
     </a>
@@ -37,7 +37,7 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
 <img align="left" alt="PHP" title="PHP" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <br/>  
 <br/>  
