@@ -16,19 +16,9 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
         <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
     </a>
-    <a href="https://github.com/Guilherme-Machado-Dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-Machado-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
-        />
-    </a>
-    <a href="https://github.com/Guilherme-Machado-Dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Machado-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
-        />
+    <a href="https://www.dio.me/users/seu-usuario">
+        <img alt="DIO" title="Meu perfil na DIO" 
+        src="https://img.shields.io/badge/DIO-Perfil-purple?style=for-the-badge&logo=book"/>
     </a>
 </p>
 
@@ -44,8 +34,8 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<br/>
-<br/>
+<br/>  
+<br/>  
 
 ---
 
@@ -54,6 +44,6 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
 - 🌐 **HTML, CSS e JavaScript** – criação de sites  
 - 🔧 **Git & GitHub** – versionamento e colaboração  
 
-![Python](https://img.shields.io/badge/Python-Estudando-blue?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github)
-![Web](https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Estudando-blue?style=for-the-badge&logo=python)  
+![GitHub](https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github)  
+![Web](https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript)  
