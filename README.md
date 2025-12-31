@@ -16,7 +16,7 @@ Meu objetivo é evoluir como desenvolvedor e contribuir para soluções que faç
         <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
     </a>
-    <a href="https://www.dio.me/users/seu-usuario">
+    <a href="https://web.dio.me/users/guilhermebomfimmachadog?tab=achievements">
         <img alt="DIO" title="Meu perfil na DIO" 
         src="https://img.shields.io/badge/DIO-Perfil-purple?style=for-the-badge&logo=book"/>
     </a>
