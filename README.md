@@ -80,4 +80,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 ### 🎯 Objetivos
 - Consolidar conhecimentos em **programação**, **Git** e **GitHub**  
 - Construir uma base sólida para conquistar estágio em TI  
-- Desenvolver projetos completos e colaborar em iniciativas open-source  
+- Desenvolver projetos completos e colaborar em iniciativas open-source
