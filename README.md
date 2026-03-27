@@ -57,13 +57,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ---
 
-### 🚀 Projetos em Destaque
-- **Portfólio Web** — Site pessoal em desenvolvimento com HTML, CSS e JS  
-- **Portfólio Automação** — Projeto de estudo com foco em responsividade  
-- **Scripts** — Exercícios e códigos simples para prática de lógica  
-
----
-
 ### 🎓 Certificações
 - **Introdução ao Git e GitHub** — DIO  
 - **Fundamentos de HTML, CSS e JavaScript** — Curso TI  
