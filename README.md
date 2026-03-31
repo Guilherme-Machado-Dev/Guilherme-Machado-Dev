@@ -64,6 +64,16 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Machado-Dev&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Machado-Dev&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-Machado-Dev&theme=dark&date_format=j%20M%5B%20Y%5D)
+
+---
+
 ### 🎯 Objetivos
 - Consolidar conhecimentos em **programação**, **Git** e **GitHub**  
 - Construir uma base sólida para conquistar estágio em TI  
