@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # Mantém credenciais para permitir push
 
       - name: Gerar animação da cobrinha
         uses: Platane/snk@v3
