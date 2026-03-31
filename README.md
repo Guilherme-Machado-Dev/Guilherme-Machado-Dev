@@ -60,17 +60,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 ### 🎓 Certificações
 - **Introdução ao Git e GitHub** — DIO  
 - **Fundamentos de HTML, CSS e JavaScript** — Curso TI  
-- **Graduando em ADS** — Universidade Unigranrio/Afya  
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Machado-Dev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Machado-Dev&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-Machado-Dev&theme=dark&date_format=j%20M%5B%20Y%5D)
+- **Graduando em ADS** — Universidade Unigranrio/Afya
 
 ---
 
