@@ -41,6 +41,12 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ---
 
+## 🌍 Minha Landing Page
+👉 Conheça mais sobre mim e minha trajetória acessando minha página pessoal:  
+[**Visite minha Landing Page aqui**](https://seu-link-da-landing-page.com)
+
+---
+
 ## 🤖 Linguagens e Tecnologias
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
