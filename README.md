@@ -28,8 +28,8 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
   <a href="https://web.dio.me/users/guilhermebomfimmachadog?tab=achievements">
     <img alt="DIO" src="https://img.shields.io/badge/DIO-Perfil-purple?style=for-the-badge&logo=book"/>
   </a>
-  <a href="https://github.com/Guilherme-Machado-Dev?tab=repositories">
-    <img alt="Portfólio GitHub" src="https://img.shields.io/badge/GitHub-Portfólio-black?style=for-the-badge&logo=github"/>
+  <a href="mailto:dev.guilhermebarbosa@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
