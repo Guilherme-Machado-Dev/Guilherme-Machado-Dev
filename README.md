@@ -43,7 +43,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ## 🌍 Minha Landing Page
 👉 Conheça mais sobre mim e minha trajetória acessando minha página pessoal:  
-[**Visite minha Landing Page aqui**](https://seu-link-da-landing-page.com)
+[**Visite minha Landing Page aqui**](https://guilherme-machado-dev.github.io/Landing-Page/)
 
 ---
 
