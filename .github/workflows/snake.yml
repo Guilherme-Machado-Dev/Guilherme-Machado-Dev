@@ -15,7 +15,7 @@ jobs:
       contents: write   # Permite que o bot faça commit no repositório
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           persist-credentials: true   # Mantém credenciais para permitir push
 
@@ -26,6 +26,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-transparent.svg
 
       - name: Commit e push dos arquivos
         uses: EndBug/add-and-commit@v9
