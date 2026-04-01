@@ -9,29 +9,26 @@ on:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
-      contents: write   # Permite que o bot faça commit no repositório
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true   # Mantém credenciais para permitir push
+      contents: write
 
-      - name: Gerar animação da cobrinha
-        uses: Platane/snk@v3
+    steps:
+      - name: Gerar animação da cobrinha (SVGs)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Guilherme-Machado-Dev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-transparent.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-transparent.svg?palette=github
 
-      - name: Commit e push dos arquivos
-        uses: EndBug/add-and-commit@v9
+      - name: Publicar SVGs na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Atualizando animação da cobrinha"
-          add: "dist/*.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
