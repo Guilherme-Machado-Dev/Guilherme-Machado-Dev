@@ -1,9 +1,9 @@
 <!-- Cobrinha de contribuições -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/main/dist/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobra de contribuições do GitHub" src="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/main/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobra de contribuições do GitHub" src="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake-transparent.svg">
   </picture>
 </p>
 
