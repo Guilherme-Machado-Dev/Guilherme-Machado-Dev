@@ -49,13 +49,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ## 🤖 Linguagens e Tecnologias
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,&theme=dark" />
 </p>
 
 ---
