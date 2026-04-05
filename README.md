@@ -72,7 +72,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ## 📚 Atualmente estudando
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=html,css,js" width="60" /><br/>
