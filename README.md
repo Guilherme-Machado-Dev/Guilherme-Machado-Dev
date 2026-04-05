@@ -35,42 +35,101 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ---
 
-## 📂 Meu Portfólio
-👉 Confira meus projetos e repositórios diretamente no GitHub:  
-[**Acesse meu Portfólio aqui**](https://github.com/Guilherme-Machado-Dev?tab=repositories)
-
----
-
 ## 🌍 Minha Landing Page
-👉 Conheça mais sobre mim e minha trajetória acessando minha página pessoal:  
-[**Visite minha Landing Page aqui**](https://guilherme-machado-dev.github.io/Landing-Page/)
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" width="2000">&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="80"><br />
+        <a href="https://guilherme-machado-dev.github.io/Landing-Page/">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="Landing Page Icon" />
+        </a>
+      </td>
+      <td valign="top">
+        <h3>Minha Landing Page</h3>
+        <p>Conheça mais sobre mim e minha trajetória acessando minha página pessoal.</p>
+        <a href="https://guilherme-machado-dev.github.io/Landing-Page/">
+          <img src="https://img.shields.io/badge/Visitar%20Página-2E8B57?style=for-the-badge&logo=google-chrome" alt="Visite minha Landing Page">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github&theme=dark" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
-- 🌐 **HTML, CSS e JavaScript** — Desenvolvimento Web  
-- 🔧 **Git & GitHub** — Versionamento e colaboração  
-
-![GitHub](https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github)  
-![Web Dev](https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=html,css,js" width="60" /><br/>
+        <b>Desenvolvimento Web</b><br/>
+        <img src="https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript" />
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=git,github" width="60" /><br/>
+        <b>Versionamento</b><br/>
+        <img src="https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ## 🎓 Certificações
-- **Introdução ao Git e GitHub** — DIO  
-- **Fundamentos de HTML, CSS e JavaScript** — Curso TI  
-- **Graduando em ADS** — Universidade Unigranrio/Afya  
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=git,github" width="50"/><br/>
+      <b>Introdução ao Git e GitHub</b><br/>
+      <i>DIO</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="50"/><br/>
+      <b>Fundamentos de HTML, CSS e JavaScript</b><br/>
+      <i>Curso TI</i>
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.icons8.com/color/48/graduation-cap.png" width="50"/><br/>
+      <b>Graduando em ADS</b><br/>
+      <i>Unigranrio/Afya</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Objetivos
-- Consolidar conhecimentos em **programação**, **Git** e **GitHub**  
-- Construir uma base sólida para conquistar estágio em TI  
-- Desenvolver projetos completos e colaborar em iniciativas open-source  
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://img.icons8.com/color/48/source-code.png" width="50"/><br/>
+      <b>Programação</b><br/>
+      Consolidar conhecimentos em programação, Git e GitHub
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.icons8.com/color/48/briefcase.png" width="50"/><br/>
+      <b>Carreira</b><br/>
+      Construir base sólida para conquistar estágio em TI
+    </td>
+    <td align="center" width="250">
+      <img src="https://img.icons8.com/color/48/github.png" width="50"/><br/>
+      <b>Open Source</b><br/>
+      Desenvolver projetos completos e colaborar em iniciativas open-source
+    </td>
+  </tr>
+</table>
