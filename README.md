@@ -55,6 +55,7 @@ Meu objetivo √© evoluir continuamente como desenvolvedor e contribuir para solu√
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40px"/>
 </p>
 
 ---
