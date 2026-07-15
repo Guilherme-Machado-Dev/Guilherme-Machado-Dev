@@ -9,8 +9,10 @@
 
 ---
 
-# 👨‍💻 Guilherme Barbosa
-**`Graduando em Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor`**
+<!-- Nome e subtítulo centralizados -->
+<h1 align="center">👨‍💻 Guilherme Barbosa</h1>
+<p align="center"><code>Graduando em Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor</code></p>
+
 
 Sou **Guilherme Barbosa**, 19 anos, de Duque de Caxias (RJ).  
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Unigranrio Afya**, com formação inicial em **Tecnologia da Informação**.  
