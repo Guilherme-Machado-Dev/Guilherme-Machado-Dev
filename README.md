@@ -64,7 +64,7 @@ Uma página pessoal feita para apresentar minha trajetória e meus interesses.
 - **Introdução ao Git e GitHub** — DIO
 - **Fundamentos de HTML, CSS e JavaScript** — Colégio Flama
 
-## 🌱 Aprendendo agora
+## 🌱 Aprimorando agora
 
 - Desenvolvimento web com HTML, CSS e JavaScript
 - Versionamento de código com Git e GitHub
