@@ -2,7 +2,7 @@
 
 # 👋 Olá! Sou Guilherme Barbosa
 
-### 🎓 Graduando em ADS · 💻 Desenvolvedor em Formação
+### 🎓 Graduando em ADS   💻 Desenvolvedor em Formação
 
 **Estudando tecnologia, praticando com projetos e evoluindo a cada etapa.**
 
