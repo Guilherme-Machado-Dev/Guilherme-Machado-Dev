@@ -1,137 +1,92 @@
+<div align="center">
+
+# 👋 Olá! Sou Guilherme Barbosa
+
+### 🎓 Graduando em ADS · 💻 Desenvolvedor em Formação
+
+**Estudando tecnologia, praticando com projetos e evoluindo a cada etapa.**
+
+<p>
+  <a href="https://www.linkedin.com/in/guilherme-barbosa-0569113a2">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
+</a>
+  <a href="mailto:dev.guilhermebarbosa@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://web.dio.me/users/guilhermebomfimmachadog?tab=achievements">
+    <img src="https://img.shields.io/badge/DIO-Certificados-7B2FF7?style=for-the-badge&logo=bookstack&logoColor=white" alt="Perfil na DIO"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Curso **Análise e Desenvolvimento de Sistemas na Unigranrio Afya** e estou construindo minha trajetória em tecnologia com curiosidade, dedicação e prática.
+
+Tenho interesse em programação, desenvolvimento web e criação de soluções digitais. Gosto de entender como as tecnologias funcionam e aplicar o que aprendo em projetos.
+
+Busco uma oportunidade de **estágio em tecnologia** para contribuir com responsabilidade, aprender em equipe e desenvolver minha experiência profissional.
+
+## 🧰 Tecnologias e ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"/>
+</div>
+
+## 🚀 Projeto pessoal
+
+<div align="center">
+
+### 🌐 Minha Landing Page
+
+Uma página pessoal feita para apresentar minha trajetória e meus interesses.
+
+<a href="https://guilherme-machado-dev.github.io/Landing-Page/">
+  <img src="https://img.shields.io/badge/ABRIR%20SITE-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Abrir minha landing page"/>
+</a>
+&nbsp;
+<a href="https://github.com/Guilherme-Machado-Dev/Landing-Page">
+  <img src="https://img.shields.io/badge/EXPLORAR%20CÓDIGO-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código no GitHub"/>
+</a>
+
+<br/><br/>
+
+`HTML` · `CSS`
+
+</div>
+
+## 📚 Formação e cursos
+
+- **Análise e Desenvolvimento de Sistemas** — Unigranrio Afya *(em andamento)*
+- **Introdução ao Git e GitHub** — DIO
+- **Fundamentos de HTML, CSS e JavaScript** — Colégio Flama
+
+## 🌱 Aprendendo agora
+
+- Desenvolvimento web com HTML, CSS e JavaScript
+- Versionamento de código com Git e GitHub
+- Fundamentos de programação e desenvolvimento de sistemas
+
+---
+
+<div align="center">
+
+### ✨ Cada projeto é uma oportunidade de aprender e construir algo melhor.
+
+<a href="https://www.linkedin.com/in/guilherme-barbosa-0569113a2">
+  <img src="https://img.shields.io/badge/Conecte--se%20comigo-no%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
+</a>
+
+</div>
+
 <!-- Cobrinha de contribuições -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobra de contribuições do GitHub" src="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake-transparent.svg">
+    <img alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/Guilherme-Machado-Dev/Guilherme-Machado-Dev/output/github-contribution-grid-snake-transparent.svg">
   </picture>
 </p>
-
----
-
-<!-- Nome e subtítulo centralizados -->
-<h1 align="center">👨‍💻 Guilherme Barbosa</h1>
-<p align="center"><code>Graduando em Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor</code></p>
-
-
-Sou **Guilherme Barbosa**, 19 anos, de Duque de Caxias (RJ).  
-Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Unigranrio Afya**, com formação inicial em **Tecnologia da Informação**.  
-
-Tenho grande interesse em **programação, desenvolvimento web e soluções digitais**, buscando aplicar meus conhecimentos em projetos práticos e desafiadores.  
-Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para soluções tecnológicas de impacto. 🚀  
-
----
-
-## 🌐 Conecte-se comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-barbosa-0569113a2">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://web.dio.me/users/guilhermebomfimmachadog?tab=achievements">
-    <img alt="DIO" src="https://img.shields.io/badge/DIO-Perfil-purple?style=for-the-badge&logo=book"/>
-  </a>
-  <a href="mailto:dev.guilhermebarbosa@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-## 🌍 Minha Landing Page
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" width="2000">&nbsp;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="80"><br />
-        <a href="https://guilherme-machado-dev.github.io/Landing-Page/">
-          <img src="https://skillicons.dev/icons?i=html,css" alt="Landing Page Icon" />
-        </a>
-      </td>
-      <td valign="top">
-        <h3>Minha Landing Page</h3>
-        <p>Conheça mais sobre mim e minha trajetória acessando minha página pessoal.</p>
-        <a href="https://guilherme-machado-dev.github.io/Landing-Page/">
-          <img src="https://img.shields.io/badge/Visitar%20Página-2E8B57?style=for-the-badge&logo=google-chrome" alt="Visite minha Landing Page">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## 🤖 Linguagens e Tecnologias
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github&theme=dark" />
-</p>
-
----
-
-## 📚 Atualmente estudando
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=html,css,js" width="60" /><br/>
-        <b>Desenvolvimento Web</b><br/>
-        <img src="https://img.shields.io/badge/Web%20Dev-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript" />
-      </td>
-      <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=git,github" width="60" /><br/>
-        <b>Versionamento</b><br/>
-        <img src="https://img.shields.io/badge/GitHub-Aprendendo-black?style=for-the-badge&logo=github" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🎓 Certificações
-<table>
-  <tr>
-    <td align="center" width="250">
-      <img src="https://skillicons.dev/icons?i=git,github" width="50"/><br/>
-      <b>Introdução ao Git e GitHub</b><br/>
-      <i>DIO</i>
-    </td>
-    <td align="center" width="250">
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="50"/><br/>
-      <b>Fundamentos de HTML, CSS e JavaScript</b><br/>
-      <i>Curso TI</i>
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.icons8.com/color/48/graduation-cap.png" width="50"/><br/>
-      <b>Graduando em ADS</b><br/>
-      <i>Unigranrio/Afya</i>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Objetivos
-<table>
-  <tr>
-    <td align="center" width="250">
-      <img src="https://img.icons8.com/color/48/source-code.png" width="50"/><br/>
-      <b>Programação</b><br/>
-      Consolidar conhecimentos em programação, Git e GitHub
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.icons8.com/color/48/briefcase.png" width="50"/><br/>
-      <b>Carreira</b><br/>
-      Construir base sólida para conquistar estágio em TI
-    </td>
-    <td align="center" width="250">
-      <img src="https://img.icons8.com/color/48/github.png" width="50"/><br/>
-      <b>Open Source</b><br/>
-      Desenvolver projetos completos e colaborar em iniciativas open-source
-    </td>
-  </tr>
-</table>
