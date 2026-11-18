@@ -22,13 +22,11 @@
 
 ---
 
-## Sobre mim
+## Sobre
 
-Curso **Análise e Desenvolvimento de Sistemas na Unigranrio Afya** e estou construindo minha trajetória em tecnologia com curiosidade, dedicação e prática.
+Tenho interesse em tecnologia e em compreender como sistemas são **projetados**, **desenvolvidos** e **integrados**. Venho fortalecendo meus conhecimentos em programação, bancos de dados e análise de sistemas, aplicando o que aprendo em estudos e projetos práticos.
 
-Tenho interesse em programação, desenvolvimento web e criação de soluções digitais. Gosto de entender como as tecnologias funcionam e aplicar o que aprendo em projetos.
-
-Busco uma oportunidade de **estágio em tecnologia** para contribuir com responsabilidade, aprender em equipe e desenvolver minha experiência profissional.
+Busco uma oportunidade de estágio em TI para contribuir com responsabilidade, colaborar com uma equipe e ganhar experiência em desafios reais. Quero seguir ampliando meus conhecimentos e construir uma trajetória consistente na área.
 
 ## Tecnologias e ferramentas
 
@@ -52,9 +50,6 @@ Uma página pessoal feita para apresentar minha trajetória e meus interesses.
   <img src="https://img.shields.io/badge/EXPLORAR%20CÓDIGO-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código no GitHub"/>
 </a>
 
-<br/><br/>
-
-`HTML` · `CSS`
 
 </div>
 
