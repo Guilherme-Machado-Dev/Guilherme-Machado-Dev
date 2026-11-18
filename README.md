@@ -31,7 +31,7 @@ Busco uma oportunidade de estágio em TI para contribuir com responsabilidade, c
 ## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Python, C++, MySQL, Git, GitHub e VS Code"/>
 </div>
 
 ## Projeto pessoal
