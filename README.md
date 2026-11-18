@@ -66,7 +66,7 @@ Uma página pessoal feita para apresentar minha trajetória e meus interesses.
 
 ## Aprimorando agora
 
-- Desenvolvimento web com HTML, CSS e JavaScript
+- Fundamentos de SQL, bancos de dados e modelagem de dados
 - Versionamento de código com Git e GitHub
 - Fundamentos de programação e desenvolvimento de sistemas
 
