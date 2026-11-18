@@ -1,8 +1,8 @@
 <div align="center">
 
-# Guilherme Barbosa
+# Desenvolvedor em Formação
 
-### Graduando em ADS  - Desenvolvedor em Formação
+### Programação · Bancos de Dados · Análise de Sistemas
 
 **Estudando tecnologia, praticando com projetos e evoluindo a cada etapa.**
 
