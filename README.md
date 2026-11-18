@@ -74,11 +74,8 @@ Uma página pessoal feita para apresentar minha trajetória e meus interesses.
 
 <div align="center">
 
-### Cada projeto é uma oportunidade de aprender e construir algo melhor.
+*Cada projeto é uma oportunidade de aprender e construir algo melhor.*
 
-<a href="https://www.linkedin.com/in/guilherme-barbosa-0569113a2">
-  <img src="https://img.shields.io/badge/Conecte--se%20comigo-no%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn"/>
-</a>
 
 </div>
 
